@@ -1,0 +1,12 @@
+/build
+/docs
+**/.DS_Store
+.vscode
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+bin
+.ninja_log
+.ninja_deps
+build.ninja
+compile_commands.json

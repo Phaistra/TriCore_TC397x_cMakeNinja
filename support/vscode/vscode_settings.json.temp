@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.in": "cpp",
+		"*.hex": "hex",
+		"*.sre": "s19"
+	}
+}

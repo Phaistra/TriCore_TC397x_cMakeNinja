@@ -1,0 +1,21 @@
+﻿---
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: Align
+AlignConsecutiveMacros: 'true'
+AlignTrailingComments: 'true'
+AllowShortBlocksOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: All
+BreakBeforeBraces: Attach
+ColumnLimit: '120'
+IndentCaseLabels: 'true'
+
+SpaceInEmptyParentheses: 'false'
+
+BreakConstructorInitializers: AfterColon
+UseTab: Always
+IndentWidth: 4
+ColumnLimit: 0
+AllowShortFunctionsOnASingleLine: true
+AllowShortBlocksOnASingleLine: Always
+AlignConsecutiveMacros: true
+...
